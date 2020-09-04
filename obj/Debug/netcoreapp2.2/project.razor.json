@@ -1,0 +1,35 @@
+{
+  "FilePath": "/Users/IrockMyWarlock/Documents/CODING STUFF/codingdojo/c#/ASPNET/ASPII/quotingDojo/quotingDojo/quotingDojo.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "quotingDojo",
+  "Documents": [
+    {
+      "FilePath": "/Users/IrockMyWarlock/Documents/CODING STUFF/codingdojo/c#/ASPNET/ASPII/quotingDojo/quotingDojo/Views/Home/Quotes.cshtml",
+      "TargetPath": "Views\\Home\\Quotes.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/IrockMyWarlock/Documents/CODING STUFF/codingdojo/c#/ASPNET/ASPII/quotingDojo/quotingDojo/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/IrockMyWarlock/Documents/CODING STUFF/codingdojo/c#/ASPNET/ASPII/quotingDojo/quotingDojo/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
